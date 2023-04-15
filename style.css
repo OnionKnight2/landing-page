@@ -127,3 +127,65 @@ body {
     max-height: 100px;
     align-self: center;
 }
+
+.quotes {
+    background-color: #e5e7eb;
+    color: #1f2937;
+}
+
+.quotes .quotes-container {
+    padding: 100px 350px;
+    display: flex;
+    flex-direction: column;
+}
+
+.quotes .quote {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 100;
+}
+
+.quotes .quote-origin {
+    font-size: 24px;
+    font-weight: 900;
+    align-self: flex-end;
+    padding-right: 16px;
+}
+
+.sign-up {
+    padding: 64px 250px;
+}
+
+.sign-up .sign-up-container {
+    background-color: #3882f6;
+    padding: 32px 96px;
+    border-radius: 8px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.sign-up .sign-up-content {
+    display: flex;
+    flex-direction: column;
+}
+
+.sign-up .sign-up-title {
+    font-size: 16px;
+    font-weight: 600;
+}
+
+.sign-up .sign-up-info {
+    font-size: 12px;
+    font-weight: 100;
+}
+
+.sign-up button {
+    background-color: #3882f6;
+    border: 1px solid white;
+    border-radius: 8px;
+    color: white;
+    max-width: fit-content;
+    font-weight: 600;
+    padding: 8px 32px;
+}
+
