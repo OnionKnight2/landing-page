@@ -189,3 +189,16 @@ body {
     padding: 8px 32px;
 }
 
+.footer {
+    background-color: #1F2937;
+    color: #e5e7eb;
+    font-size: 16px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.footer .footer-content {
+    padding: 24px 0px;
+}
+
