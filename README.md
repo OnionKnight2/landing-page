@@ -1,8 +1,6 @@
 # landing-page
 This is a landing page. I'm creating an entire web page from a given design.
 
-It is filled with nonsense text and some random images. My focus is on creating the correct layout.
+It contains some images and information about most popular Marvel characters, just not to have dummy text. Focus is on getting the design right.
 
-Photo 1 by <a href="https://unsplash.com/@etiennegirardet?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Etienne Girardet</a> on <a href="https://unsplash.com/photos/PsXLP-BxXnI?utm_source=unsplash&utm_medium=referral&utm_content=creditCopyText">Unsplash</a>
-  
-Fruit photos by TheOdinProject
+Hulk, Thor, Captain America and Scarlet Witch image by <a href="https://pixabay.com/users/andremsantana-61090/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5959620">André Santana AndreMS</a> from <a href="https://pixabay.com//?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5959620">Pixabay</a>
