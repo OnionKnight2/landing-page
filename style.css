@@ -28,7 +28,7 @@ body {
 .header .logo {
     font-size: 24px;
     color: #f9faf8;
-    font-weight: 600;
+    font-weight: 400;
 }
 
 .header ul {
@@ -82,11 +82,16 @@ body {
     max-width: fit-content;
     background-color: #3882f6;
     color: white;
-    font-weight: 600;
+    font-weight: 400;
     padding: 8px 32px;
     margin-top: 12px;
     border: none;
     border-radius: 8px;
+}
+
+.header button:hover {
+    background-color: lightskyblue;
+    color: #1f2937;
 }
 
 .main {
@@ -142,7 +147,7 @@ body {
 .quotes .quote {
     font-size: 36px;
     font-style: italic;
-    font-weight: 100;
+    font-weight: 300;
 }
 
 .quotes .quote-origin {
@@ -150,6 +155,7 @@ body {
     font-weight: 900;
     align-self: flex-end;
     padding-right: 16px;
+    padding-top: 8px;
 }
 
 .sign-up {
@@ -171,12 +177,12 @@ body {
 
 .sign-up .sign-up-title {
     font-size: 16px;
-    font-weight: 600;
+    font-weight: 900;
 }
 
 .sign-up .sign-up-info {
     font-size: 12px;
-    font-weight: 100;
+    font-weight: 300;
 }
 
 .sign-up button {
@@ -185,8 +191,14 @@ body {
     border-radius: 8px;
     color: white;
     max-width: fit-content;
-    font-weight: 600;
+    font-weight: 400;
     padding: 8px 32px;
+}
+
+.sign-up button:hover {
+    background-color: lightblue;
+    color: #1F2937;
+    border: #1F2937;
 }
 
 .footer {
